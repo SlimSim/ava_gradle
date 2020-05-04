@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 03 21:31:55 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-dc06-06c1-000005ec8608 
+on database directory memory:/home/simon/Dropbox/prog/a-voting-app/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/home/simon/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.14.2.0/7efad40ef52fbb1f08142f07a83b42d29e47d8ce/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.6+10
+user.dir=/home/simon/Dropbox/prog/a-voting-app
+os.name=Linux
+os.arch=amd64
+os.version=5.4.31-1-MANJARO
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
